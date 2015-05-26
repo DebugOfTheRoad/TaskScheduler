@@ -1,0 +1,7 @@
+C:\Users\tianwei\Desktop\TianWei.TaskScheduler\Auto.TaskScheduler.Jobs\bin\Debug\TianWei.TaskScheduler.Jobs.dll
+C:\Users\tianwei\Desktop\TianWei.TaskScheduler\Auto.TaskScheduler.Jobs\bin\Debug\TianWei.TaskScheduler.Jobs.pdb
+C:\Users\tianwei\Desktop\TianWei.TaskScheduler\Auto.TaskScheduler.Jobs\bin\Debug\TianWei.TaskScheduler.dll
+C:\Users\tianwei\Desktop\TianWei.TaskScheduler\Auto.TaskScheduler.Jobs\bin\Debug\TianWei.TaskScheduler.pdb
+C:\Users\tianwei\Desktop\TianWei.TaskScheduler\Auto.TaskScheduler.Jobs\obj\Debug\TianWei.TaskScheduler.Jobs.csprojResolveAssemblyReference.cache
+C:\Users\tianwei\Desktop\TianWei.TaskScheduler\Auto.TaskScheduler.Jobs\obj\Debug\TianWei.TaskScheduler.Jobs.dll
+C:\Users\tianwei\Desktop\TianWei.TaskScheduler\Auto.TaskScheduler.Jobs\obj\Debug\TianWei.TaskScheduler.Jobs.pdb

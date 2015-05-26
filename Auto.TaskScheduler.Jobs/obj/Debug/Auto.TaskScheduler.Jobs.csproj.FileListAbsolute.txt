@@ -1,0 +1,7 @@
+E:\Work\Src\Svn\TaskScheduler\Auto.TaskScheduler\Auto.TaskScheduler.Jobs\bin\Debug\Auto.TaskScheduler.Jobs.dll
+E:\Work\Src\Svn\TaskScheduler\Auto.TaskScheduler\Auto.TaskScheduler.Jobs\bin\Debug\Auto.TaskScheduler.Jobs.pdb
+E:\Work\Src\Svn\TaskScheduler\Auto.TaskScheduler\Auto.TaskScheduler.Jobs\bin\Debug\Auto.TaskScheduler.dll
+E:\Work\Src\Svn\TaskScheduler\Auto.TaskScheduler\Auto.TaskScheduler.Jobs\bin\Debug\Auto.TaskScheduler.pdb
+E:\Work\Src\Svn\TaskScheduler\Auto.TaskScheduler\Auto.TaskScheduler.Jobs\obj\Debug\Auto.TaskScheduler.Jobs.csprojResolveAssemblyReference.cache
+E:\Work\Src\Svn\TaskScheduler\Auto.TaskScheduler\Auto.TaskScheduler.Jobs\obj\Debug\Auto.TaskScheduler.Jobs.dll
+E:\Work\Src\Svn\TaskScheduler\Auto.TaskScheduler\Auto.TaskScheduler.Jobs\obj\Debug\Auto.TaskScheduler.Jobs.pdb

@@ -1,0 +1,4 @@
+C:\Users\tianwei\Desktop\TianWei.TaskScheduler\Auto.TaskScheduler\bin\Debug\TianWei.TaskScheduler.dll
+C:\Users\tianwei\Desktop\TianWei.TaskScheduler\Auto.TaskScheduler\bin\Debug\TianWei.TaskScheduler.pdb
+C:\Users\tianwei\Desktop\TianWei.TaskScheduler\Auto.TaskScheduler\obj\Debug\TianWei.TaskScheduler.dll
+C:\Users\tianwei\Desktop\TianWei.TaskScheduler\Auto.TaskScheduler\obj\Debug\TianWei.TaskScheduler.pdb
